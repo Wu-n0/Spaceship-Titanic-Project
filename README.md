@@ -27,7 +27,7 @@ This README provides an overview of the analysis techniques used in the Spaceshi
 - A range of classification models were explored, including traditional machine learning algorithms like Logistic Regression, Random Forests, as well as more sophisticated gradient boosting methods like XGBoost and CatBoost.
 - Performance was rigorously evaluated using cross-validation and metrics that align with the project's objectives, such as accuracy, precision, recall, and F1-score.
 
-### Hyperparameter Tuning (Optional)
+### Hyperparameter Tuning
 
 - For selected models, hyperparameter tuning was conducted to improve performance. Grid search or randomized search techniques were used in conjunction with cross-validation to find the best parameter combinations.
 
